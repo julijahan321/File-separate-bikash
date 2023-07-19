@@ -1,0 +1,15 @@
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\bin\Debug\net7.0\another bikash.exe
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\bin\Debug\net7.0\another bikash.deps.json
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\bin\Debug\net7.0\another bikash.runtimeconfig.json
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\bin\Debug\net7.0\another bikash.dll
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\bin\Debug\net7.0\another bikash.pdb
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\another bikash.csproj.AssemblyReference.cache
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\another bikash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\another bikash.AssemblyInfoInputs.cache
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\another bikash.AssemblyInfo.cs
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\another bikash.csproj.CoreCompileInputs.cache
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\another bikash.dll
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\refint\another bikash.dll
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\another bikash.pdb
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\another bikash.genruntimeconfig.cache
+C:\Users\JULI JAHAN TONDRA\Desktop\c#project\another bikash\obj\Debug\net7.0\ref\another bikash.dll
