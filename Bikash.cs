@@ -86,6 +86,27 @@
                     }
                     count = 1;
                 }
+                else if (press1 == 9)
+                {
+                    Console.WriteLine("bKash");
+                    Console.WriteLine(count++ + " Check Balance");
+                    Console.WriteLine(count++ + " Request  Statement");
+                    Console.WriteLine(count++ + " Change PIN");
+                    Console.WriteLine(count++ + " Priyo Numbers");
+                    Console.WriteLine(count++ + " Update MNP");
+                    Console.WriteLine(count++ + " Confirm iPhone Login");
+                    Console.WriteLine(count++ + " iPhone PIN Reset");
+                    Console.WriteLine(count++ + " Helpline");
+                    count = 1;
+
+                    int pressforcheckbalance = int.Parse(Console.ReadLine());
+                    if (pressforcheckbalance == 1)
+                    {
+                        Console.WriteLine("Enter Menu PIN:");
+                        Console.ReadLine();
+                    }
+                    Console.ReadLine();
+                }
               
             }
         }
